@@ -1,8 +1,8 @@
 ## IQRO
 
-IQRO 1 : Page 1-2
-IQRO 2 : 
-IQRO 3 : 
-IQRO 4 : 
-IQRO 5 : 
-IQRO 6 : 
+IQRO 1 : Page 1-2_
+IQRO 2 : _
+IQRO 3 : _
+IQRO 4 : _
+IQRO 5 : _
+IQRO 6 : _
